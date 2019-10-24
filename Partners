@@ -1,4 +1,8 @@
+Our partners, Avovlve Fitness, created an E-R Diagram for their fitness gym.
+Using the green color characterizes strong relationship table.
+Using the orange color characterizes weak relationship table.
 ClassID as a primary key in more than one table.
 ClassID should be a foreign key into the customers' table.
+The foreign keys links two tables together.
 DepartmentID in outsourced should be a foreign key from the department table. 
 The DeparmentID in employee should be a foreign key.
